@@ -1,0 +1,1 @@
+implementing backprobgation from scratch
